@@ -1,4 +1,6 @@
 ### Hi there 👋
+Hi, I'm Shani, a passionate self-taught Front end developer :woman_technologist:
+
 
 <!--
 **shanipj/shanipj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
