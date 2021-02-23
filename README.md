@@ -3,6 +3,7 @@ Hi, I'm Shani, an industrial engineer and a passionate self-taught Front end dev
 
 Feel free to take a look at my projects:
  Pakal:🌱    https://shanipj.github.io/Pakal/
+ 
  Dount Game: https://shanipj.github.io/The-Donut-Game/
  
 
