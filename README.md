@@ -1,3 +1,6 @@
+![unnamed](https://user-images.githubusercontent.com/42889059/108858063-6dd3d000-75f4-11eb-85f5-36696056f9e6.png)
+
+
 ### Hi there 👋
 Hi, I'm Shani, an Industrial Engineer and a passionate self-taught Front end developer :woman_technologist:
 
