@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Shani, an industrial engineer and a passionate self-taught Front end developer :woman_technologist:
+Hi, I'm Shani, an Industrial Engineer and a passionate self-taught Front end developer :woman_technologist:
 
 Feel free to take a look at my projects:
 
