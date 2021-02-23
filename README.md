@@ -3,10 +3,11 @@ Hi, I'm Shani, an Industrial Engineer and a passionate self-taught Front end dev
 
 Feel free to take a look at my projects:
 
- 🌱 Pakal:    https://shanipj.github.io/Pakal/
+ 🌱:coffee: Pakal:    https://shanipj.github.io/Pakal/
  
 :doughnut: The Dount Game:  https://shanipj.github.io/The-Donut-Game/
  
+ :sun_behind_rain_cloud:Weather-app: https://shanipj.github.io/weather-app/
 
 
 
