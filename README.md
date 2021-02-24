@@ -3,7 +3,7 @@
 ### Hi there 👋
 I'm Shani, an Industrial Engineer and a passionate self-taught Front End Developer :woman_technologist:
 
-Feel free to take a look at recent projects:
+Feel free to take a look at my recent projects:
 
  🌱:coffee: Pakal:    https://shanipj.github.io/Pakal/
  
