@@ -1,5 +1,4 @@
-![‏‏3](https://user-images.githubusercontent.com/42889059/108993975-e8a7f400-76a3-11eb-8292-467902088a13.JPG)
-
+![‏‏4](https://user-images.githubusercontent.com/42889059/108994124-12611b00-76a4-11eb-8f19-550da3ac1416.JPG)
 
 ### Hi there 👋
 I'm Shani, an Industrial Engineer and a passionate self-taught Front End Developer :woman_technologist:
