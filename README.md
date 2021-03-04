@@ -11,7 +11,7 @@ Feel free to take a look at my recent projects:
  
 :sun_behind_rain_cloud:Weather-app: https://shanipj.github.io/weather-app/
  
-:chart: Market Chart: https://shanipj.github.io/market-chart/
+
 
 
 <!--
