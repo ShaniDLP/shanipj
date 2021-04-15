@@ -13,7 +13,7 @@ Feel free to take a look at my recent projects:
 
 :chart: Market Chart: https://shanipj.github.io/market-chart/
  
-I'm currently working on a new project in angular that is related to my favorite hobby- Scuba Diving!  
+I'm currently working on a new project that is related to my favorite hobby- Scuba Diving!  
 
 
 <!--
